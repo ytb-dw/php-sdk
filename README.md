@@ -45,7 +45,7 @@ require_once 'path/to/YtbDwClient.php';
 
 ### Obtenir une clé API
 
-1. Rendez-vous sur [ytb-dw-api.onrender.com](https://ytb-dw.social-networking.me)
+1. Rendez-vous sur [https://ytb-dw.social-networking.me](https://ytb-dw.social-networking.me)
 2. Créez un compte ou connectez-vous
 3. Générez votre clé API dans votre tableau de bord
 4. Copiez votre clé API (format : `ytb-dw-votre-cle-api`)
